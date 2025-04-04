@@ -5,7 +5,9 @@ This project builds a **Convolutional Neural Network (CNN)** model to detect **f
 ---
 
 ## 📁 Project Structure
-Forest_fire_detection/ ├── Forest_Fire_Detection_using_DL.ipynb # Main notebook for training and evaluation
+Forest_fire_detection/
+
+├── Forest_Fire_Detection_using_DL.ipynb # Main notebook for training and evaluation
 
 
 ---
